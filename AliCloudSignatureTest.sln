@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliCloudSignatureTest", "AliCloudSignatureTest\AliCloudSignatureTest.csproj", "{0716EDC6-6D93-4858-A05B-DBC4ABF7F2CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0716EDC6-6D93-4858-A05B-DBC4ABF7F2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0716EDC6-6D93-4858-A05B-DBC4ABF7F2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0716EDC6-6D93-4858-A05B-DBC4ABF7F2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0716EDC6-6D93-4858-A05B-DBC4ABF7F2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B9607A-6AEA-4716-9D33-E698E6B784CC}
+	EndGlobalSection
+EndGlobal
